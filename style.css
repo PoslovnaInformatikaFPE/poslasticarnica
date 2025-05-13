@@ -52,3 +52,14 @@
     margin-top: 30px;
     font-style: italic;
 }
+
+.card-img-top{
+    height: 200px;
+    object-fit: cover;
+}
+
+.proizvodi-red{
+    padding: 30px;
+    width: 100%;
+}
+
